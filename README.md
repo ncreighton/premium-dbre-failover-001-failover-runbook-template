@@ -1,0 +1,2 @@
+# premium-dbre-failover-001-failover-runbook-template
+Your database just went down at 2 AM and your team is scrambling through Slack messages and outdated docs. The Failover Runbook Template eliminates chaos by giving you a battle-tested, step-by-step playbook in Notion that your entire team can execute instantly.  This isn't another generic checklist—it's a comprehensive failover runbook built specif
